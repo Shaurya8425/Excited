@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Ubuntu:wght@300&display=swap');
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #1f1d26;
+    color: white;
+    padding: 1rem 1rem;
+}
+.nav h3{
+    /* font-family: "Ubuntu"; */
+}
+/* .nav-items{
+    list-style: none;
+    display: flex;
+    padding-right: 1rem;
+}
+.nav-items li{
+    padding-left: 1rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-family: 'Ubuntu';
+} */
+.logo-title{
+    display: flex;
+    align-items: center;
+}
+.logo-title h2{
+    margin-left: 1rem;
+    /* font-family: "Ubuntu"; */
+    color: #64d0ed;font-size: 2rem;
+    
+}
+
+.img{
+    width: 20%;
+}
+.footer{
+    background-color: #1f1d26;
+    padding: .1rem 1.2rem;
+    color: white;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
+.footer{
+    margin: 0;
+    padding: 0;
+}
+.footer p{
+    font-family: 'Ubuntu';
+    font-size: .92rem;
+}
+body{
+    margin: 0;
+    background-color: #24262e;
+    color: white;
+    font-family: "Inter";
+    background-image: url(../public/logo512.png);
+    background-repeat: no-repeat;
+    background-position: 40rem 32em;
+    background-size: 12%;
+}
+.maincontent{
+    margin: 1rem 2rem;
+}
+.maincontent h1{
+    /* font-family: "Bree serif"; */
+}
+.maincontent li{
+    line-height: 4rem;
+    font-size: 1.4rem;
+    /* font-family: "Ubuntu"; */
+    font-weight: bold;
+    list-style-type: disc;
+    color: #64d0ed;
+}
+.maincontent span{
+    color: white;
+}
