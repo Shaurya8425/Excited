@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/freecodecampreact/static/css/main.b3082922.css",
+    "main.js": "/freecodecampreact/static/js/main.7de75675.js",
+    "index.html": "/freecodecampreact/index.html",
+    "main.b3082922.css.map": "/freecodecampreact/static/css/main.b3082922.css.map",
+    "main.7de75675.js.map": "/freecodecampreact/static/js/main.7de75675.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3082922.css",
+    "static/js/main.7de75675.js"
+  ]
+}
