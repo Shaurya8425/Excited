@@ -9,7 +9,7 @@ function MainContent(){
             </header> */}
             <h1>Why I'm excited to be learning react?</h1>
             <ul>
-                <li><span>I't will help me complete another web dev YouTube video where I'll be creating clone of Amazone website.</span></li>
+                <li><span>It'll help me complete another web dev YouTube video where I'll be creating clone of Amazone website.</span></li>
                 <li><span>It's a very demanding thing.</span></li>
                 <li><span>It'll help me easify to watch other react playlist videos like of "CodeWithHarry".</span></li>
             </ul>
